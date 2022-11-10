@@ -1,0 +1,50 @@
+
+/* h1{
+    color:blue;
+}
+h1 {
+    color:blueviolet;
+    background-color:greenyellow;
+} */
+
+h1{
+    font-size: 100px;
+    text-align: center;
+    text-shadow: -3px -3px 3px red,
+                 -6px -6px 6px navy,
+                 -9px -9px 9px skyblue;
+                 font-family: cursive;
+}
+
+h2{
+    color:yellow;
+    background-color:black;
+    font-size: 75px;
+    font-family:'Courier New',
+   
+}
+
+h3{
+    width: 30%;
+    color:yellowgreen;
+    background-color:red;
+    font-size: 50px;
+    font-family: 'Oswald', sans-serif;
+}
+
+h4{
+    width: 30%;
+    color:yellowgreen;
+    background-color:red;
+    font-size: 50px;
+    font-family: 'Oswald', sans-serif;
+}
+
+
+p{
+    width: 100%;
+    background-color: blue;
+    text-align: justify;
+    font-family: sans-serif;
+}
+
